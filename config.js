@@ -1,11 +1,11 @@
 const chalk = require("chalk")
 const fs = require("fs")
 
-global.ownerNumber = ["237656520674@s.whatsapp.net"]
-global.nomerOwner = "237656520674"
-global.nomorOwner = ['237656520674']
+global.ownerNumber = ["243995499574@s.whatsapp.net"]
+global.nomerOwner = "243995499574"
+global.nomorOwner = ['243995499574']
 global.namaDeveloper = "𝐊𝐞𝐫𝐦" //jangn diubh bng
-global.namaOwner = "𝐊𝐞𝐫𝐦"
+global.namaOwner = "𝐂𝐚𝐩𝐩𝐮𝐜𝐜𝐢𝐧𝐨"
 global.namaBot = "𝐊𝐞𝐫𝐦 𝐁𝐮𝐠 𝐕𝟔"
 global.versionBot = "𝟏𝟐.𝟎.𝟎"
 global.packname = "𝐊𝐞𝐫𝐦 𝐁𝐮𝐠 𝐕𝟔"
